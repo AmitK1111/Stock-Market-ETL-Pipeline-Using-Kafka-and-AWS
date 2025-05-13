@@ -6,7 +6,7 @@ This repository contains a real-time stock market data simulation pipeline using
 
 ## 🖼️ Architecture Overview
 
-![Architecture Diagram](Architecture.jpg)
+![Architecture Diagram](Stock_Market_Architecture.jpg)
 
 ---
 
